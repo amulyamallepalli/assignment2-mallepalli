@@ -18,7 +18,7 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 [About me](aboutme.md)  
  
 ![images](images/coffee.PNG)
-![images](images/coffee2.png)
+![images](images/coffee2.PNG)
 
 ---  
 
@@ -32,9 +32,9 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 | Canale Grande      | 12    | $1500  |
 | Ponte di Rialto    | 10    | $700   |
 
-![images](images/Capture1.png)
-![images](images/Capture2.png)
-![images](images/Capture3.png)
+![images](images/Capture1.PNG)
+![images](images/Capture2.PNG)
+![images](images/Capture3.PNG)
 
 ---
 # Pithy Quotes
