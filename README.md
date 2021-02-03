@@ -15,10 +15,14 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 * Water
     * kettle
 * coffee beans
+
+
 [About me](aboutme.md)  
  
 ![images](images/coffee.PNG)
 ![images](images/coffee2.PNG)
+![images](images/coffee3.PNG)
+
 
 ---  
 
@@ -35,6 +39,7 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 ![images](images/Capture1.PNG)
 ![images](images/Capture2.PNG)
 ![images](images/Capture3.PNG)
+![images](images/Capture4.PNG)
 
 ---
 # Pithy Quotes
