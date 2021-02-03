@@ -15,8 +15,9 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 * coffee beans
 [About me](aboutme.md)  
 
----
-# My favorite places to visit
+---  
+
+# My favorite places to visit.
  Venice, known also as the “City of Canals,” “The Floating City,” and “Serenissima,” is arguably one of Italy's most picturesque cities. With its winding canals, striking architecture, and beautiful bridges, Venice is a popular destination for travel.   
 
 | Location          | Hours | Amount |
