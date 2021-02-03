@@ -5,7 +5,7 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 
 --- 
 ## Steps for Preparation of Coffee
----
+
 1. First, bring cold water to a boil in a kettle.
     1. If using whole beans, grind the beans to a uniform consistency similar to granulated table salt. 
 3. Meanwhile, put a filter in the brewer and rinse with hot water. This removes the papery residue on the filter and warms up the brewer, keeping your coffee hot for longer. Discard the water used for rinsing. 
