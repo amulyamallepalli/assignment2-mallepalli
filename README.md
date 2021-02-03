@@ -17,6 +17,9 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 * coffee beans
 [About me](aboutme.md)  
 
+![images](images/coffee.png)
+![images](images/coffee2.png)
+
 ---  
 
 # My favorite places to visit.
@@ -28,6 +31,9 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 | St.Mark's Basilia  | 10    | $1000  |
 | Canale Grande      | 12    | $1500  |
 | Ponte di Rialto    | 10    | $700   |
+![images](images/Capture1.png)
+![images](images/Capture2.png)
+![images](images/Capture3.png)
 
 ---
 # Pithy Quotes
