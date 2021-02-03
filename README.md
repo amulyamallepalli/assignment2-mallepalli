@@ -34,6 +34,22 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 >The way to get started is to quit talking and begin doing. -*Walt Disney*
 >Many of life’s failures are people who did not realize how close they were to success when they gave up.– *Thomas A. Edison*
 
+---
+> Darwin is a closed source programming language developed by Gaston Gonnet and colleagues at ETH Zurich.It is used to develop the OMA orthology inference software,which was also initially developed by Gonnet. The language backend consists of the kernel, responsible for performing simple mathematical calculations, for transporting and storing data and for interpreting the user's commands, and the library, a set of programs which can perform more complicated calculations.
+
+<https://en.wikipedia.org/wiki/Darwin_(programming_language)>
+
+```
+factorial := proc ( n )
+  if (n=0) then
+    return(1);
+  else
+    return(n * factorial(n-1));
+  fi;
+end:>
+```
+
+<https://en.wikipedia.org/wiki/Darwin_(programming_language)>
 
 
 
