@@ -29,6 +29,11 @@ It's a whole meal in it self, has fragrance, **Aromatics**, **Spices** ,tender m
 | Canale Grande      | 12    | $1500  |
 | Ponte di Rialto    | 10    | $700   |
 
+---
+#Quotes
+>The way to get started is to quit talking and begin doing. -*Walt Disney*
+>Many of life’s failures are people who did not realize how close they were to success when they gave up.– *Thomas A. Edison*
+
 
 
 
